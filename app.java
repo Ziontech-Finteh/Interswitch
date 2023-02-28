@@ -5,6 +5,8 @@ Our God NEVER FAIL
 developing Java files
 .net applications 
 NodesJS application 
-Jesus is Lord 
+Jesus is Lord
+pyton application
+web application
 Other files
 
