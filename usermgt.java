@@ -14,4 +14,7 @@ Excellence
 London
 Mary
 sarah
+Powerful
+Thanksgiving
+
 
