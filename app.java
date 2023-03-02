@@ -12,8 +12,6 @@ Other files
 water
 Great
 cool
-<<<<<<< HEAD
 Yaml applications
-=======
+Bug removed
 
->>>>>>> development
