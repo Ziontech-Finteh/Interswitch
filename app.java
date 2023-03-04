@@ -14,4 +14,7 @@ Great
 cool
 Yaml applications
 Bug removed
+great
+This app is excellent
+This app is excellent for all users
 
