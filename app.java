@@ -13,9 +13,16 @@ water
 Great
 cool
 Yaml applications
+Wonders
+<<<<<<< HEAD
 
 
 Bug removed
+great
+
+This app is excellents
+Azure
+GCP
 great
 This app is excellent
 
@@ -23,3 +30,6 @@ great
 
 from devc
 
+=======
+Favour
+>>>>>>> stage
