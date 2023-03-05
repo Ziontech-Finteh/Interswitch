@@ -14,6 +14,7 @@ Great
 cool
 Yaml applications
 Wonders
+<<<<<<< HEAD
 
 
 Bug removed
@@ -29,3 +30,6 @@ great
 
 from devc
 
+=======
+Favour
+>>>>>>> stage
