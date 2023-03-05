@@ -14,6 +14,5 @@ Great
 cool
 great
 This app is excellent
-This app is excellent for all users
 from devc
 
