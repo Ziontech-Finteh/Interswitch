@@ -1,4 +1,4 @@
-We support:
+ We support:
 Java applications
 This is great
 Our God NEVER FAIL
@@ -13,4 +13,13 @@ water
 Great
 cool
 Yaml applications
+
+
+Bug removed
+great
+This app is excellent
+
+great
+
+from devc
 
